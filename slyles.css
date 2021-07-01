@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  margin: 50px 20px;
+  padding: 15px 50px;
+
+  font-size: 30px;
+  font-weight: bold;
+
+  background-color: #b6d0e0;
+  border: none;
+  border-radius: 10px;
+}
